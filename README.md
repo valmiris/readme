@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l1J9urxTz5W6PpN96/giphy.gif" alt="Matrix Code" width="400"/>
+  <img src="https://github.com/johnnyawesome/matrix-code-rain/blob/master/matrix.gif?raw=true" alt="Matrix Code Rain" width="800"/>
 </p>
 
-# Olá, eu sou o Valmir! 👋
+# Hello, I'm Valmir! 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/valmiris)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmir-barbosa-de-farias-71a6b463)
@@ -11,7 +11,6 @@
 ![Status](https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ---
 
 ## 👨‍💻 Sobre mim
