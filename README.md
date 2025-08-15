@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/origin/6e/6edda9a85d31b6b6c8efc9743c1e8a3b_w200.gif" alt="Matrix Code Rain" width="800"/>
+  <img src="https://media.giphy.com/media/l1J9urxTz5W6PpN96/giphy.gif" alt="Matrix Code" width="400"/>
 </p>
 
 # Olá, eu sou o Valmir! 👋
